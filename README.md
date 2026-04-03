@@ -1,4 +1,5 @@
 Project Name: Finance Dashboard
+
 Project Overview:
 Finance Dashboard is a Spring Boot and Java backend project that allows users to manage financial records, users, and roles. 
 It uses PostgreSQL as the database and includes role-based access with Spring Security.
