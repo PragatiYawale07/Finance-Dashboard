@@ -25,7 +25,7 @@ APIs will be available at http://localhost:8080/api/
 
 
 API Documentation:
-You can use the Postman collection file Finance-Dashboard-Api.postman_collection.json to test all APIs
+https://github.com/PragatiYawale07/Finance-Dashboard/blob/main/Finance-Dashboard-Api.postman_collection.json
 
 Default Admin:
 Username: admin
